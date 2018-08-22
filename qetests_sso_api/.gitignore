@@ -1,0 +1,10 @@
+# IDEs - Eclipse, IntelliJ
+.settings
+.classpath
+.project
+/.idea
+/.metadata/
+
+# compiled output
+/target
+
